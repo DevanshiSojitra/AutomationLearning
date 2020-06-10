@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22818" started-at="2020-06-09T03:47:35Z" finished-at="2020-06-09T03:47:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22818" started-at="2020-06-09T03:47:35Z" finished-at="2020-06-09T03:47:58Z">
+      <class name="Demo.FileUpload">
+        <test-method status="PASS" signature="openHomePage()[pri:0, instance:Demo.FileUpload@6328d34a]" name="openHomePage" is-config="true" duration-ms="12655" started-at="2020-06-08T23:47:35Z" finished-at="2020-06-08T23:47:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHomePage -->
+        <test-method status="PASS" signature="FileUpload()[pri:0, instance:Demo.FileUpload@6328d34a]" name="FileUpload" duration-ms="630" started-at="2020-06-08T23:47:48Z" finished-at="2020-06-08T23:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FileUpload -->
+        <test-method status="PASS" signature="closeWindow()[pri:0, instance:Demo.FileUpload@6328d34a]" name="closeWindow" is-config="true" duration-ms="9516" started-at="2020-06-08T23:47:49Z" finished-at="2020-06-08T23:47:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+      </class> <!-- Demo.FileUpload -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
